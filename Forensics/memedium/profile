@@ -1,0 +1,15 @@
+Volatility Foundation Volatility Framework 2.6
+INFO    : volatility.debug    : Determining profile based on KDBG search...
+          Suggested Profile(s) : WinXPSP2x86, WinXPSP3x86 (Instantiated with WinXPSP2x86)
+                     AS Layer1 : IA32PagedMemoryPae (Kernel AS)
+                     AS Layer2 : FileAddressSpace (/home/censored/Documents/Ctfs/PBJar/Forensics/memedium/mememachinememory.vmem)
+                      PAE type : PAE
+                           DTB : 0x334000L
+                          KDBG : 0x80545ae0L
+          Number of Processors : 1
+     Image Type (Service Pack) : 3
+                KPCR for CPU 0 : 0xffdff000L
+             KUSER_SHARED_DATA : 0xffdf0000L
+           Image date and time : 2021-02-24 19:53:21 UTC+0000
+     Image local date and time : 2021-02-24 14:53:21 -0500
+
